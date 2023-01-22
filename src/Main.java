@@ -23,7 +23,7 @@ public class Main {
     public static void task2() {
         System.out.println("Задание 2");
         int clientOs = 0;
-        int clientDeviceYear = 2014;
+        int clientDeviceYear = 2015;
         if (clientDeviceYear <= 2015) {
             if (clientOs == 1) {
                 System.out.println("Установите облегченную версию приложения для Android по ссылке");
